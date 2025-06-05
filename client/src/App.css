@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.strat-btn {
+  color: rgb(176, 180, 180);
+}
+
+.strat-btn :hover {
+  background-color: darkgrey;
+}
+
+.login-div {
+  margin-bottom: 1rem;
+}
